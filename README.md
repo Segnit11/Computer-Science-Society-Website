@@ -1,4 +1,3 @@
-Since I can't directly access or edit the GitHub page for you, you can copy and paste the following README content into your GitHub repository at [https://github.com/Segnit11/Computer-Science-Society-Website](https://github.com/Segnit11/Computer-Science-Society-Website):
 
 ---
 
